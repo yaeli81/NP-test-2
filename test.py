@@ -1,4 +1,5 @@
 print("'we have one more houre'")
+print("hi")
 import matplotlib.pyplot as plt
 ahalan
 # Example data for the histogram
