@@ -1,6 +1,6 @@
 print("'we have one more houre'")
 import matplotlib.pyplot as plt
-
+ahalan
 # Example data for the histogram
 data = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5]
 
