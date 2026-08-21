@@ -1,5 +1,6 @@
 print("'we have one more houre'")
 print("hi")
+print("hi you")
 import matplotlib.pyplot as plt
 
 # Example data for the histogram
